@@ -1,0 +1,10 @@
+paginate-php:
+  container_name: paginate-php
+  dockerfile: Dockerfile
+  build: .  
+  ports:
+   - "8182:80"
+  volumes:
+   - .:/var/www  
+  external_links:
+   - mysql-dev:mysql
