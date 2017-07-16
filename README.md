@@ -1,4 +1,4 @@
-Paginación con ajax usando jquery
+Paginación con PHP
 ======
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/henrystivens/upload-image-and-data/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/henrystivens/upload-image-and-data/?branch=master)
