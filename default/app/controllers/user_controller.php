@@ -13,7 +13,7 @@ class UserController extends AppController
     
     public function page(int $page = 1)//validación 'int' con php7
     {        
-        $this->page = (new User)->paginate("page: $page", 'per_page: 1');
+        $this->page = (new User)->paginate("page: $page", 'per_page: 7');
     }
 
     public function create()
