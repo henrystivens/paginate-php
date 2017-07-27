@@ -17,7 +17,7 @@ Cambia el valor del parámetro --volume por el directorio que desees
 
 ### 2. Importar base de datos
 
-Importar el archivo *default/app/config/sql/file_and_data_upload.sql*
+Importar el archivo *default/app/config/sql/paginate-php.sql*
 
 ### 3. Correr Apache + PHP 7
 
