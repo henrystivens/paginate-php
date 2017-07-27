@@ -2,4 +2,4 @@ vendor/*
 default/app/temp/cache/*.*
 default/app/temp/logs/*.*
 nbproject/*
-
+.DS_Store
