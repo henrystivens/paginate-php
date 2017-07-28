@@ -1,7 +1,7 @@
 Paginación con PHP
 ======
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/henrystivens/upload-image-and-data/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/henrystivens/upload-image-and-data/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/henrystivens/paginate-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/henrystivens/paginate-php/?branch=master)
 
 ## Correr en Docker
 
