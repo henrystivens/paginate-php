@@ -1,6 +1,8 @@
 Paginación con PHP
 ======
 
+Código del ejemplo de paginación en PHP con KumbiaPHP 1.0RC, del manual: [Paginación en PHP fácil y rápida](https://www.kumbiaphp.com/blog/2017/07/21/paginacion-en-php-facil/)
+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/henrystivens/paginate-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/henrystivens/paginate-php/?branch=master)
 
 ## Correr en Docker
